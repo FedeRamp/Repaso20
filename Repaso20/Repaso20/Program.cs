@@ -6,7 +6,7 @@ namespace Repaso20
     {
         public static void Main(string[] args)
         {
-            /*
+            
             string ingreso = "";
             int numeroIngresado = -1;
             do
@@ -23,19 +23,16 @@ namespace Repaso20
                     ingreso = "";
                 }
             } while (ingreso == "");
-            */
 
-            for (int numeroIngresado = 1; numeroIngresado < 100; numeroIngresado++)
-            {
-                int cantidadPrimosAnteriores = PrimosAnteriores.get(numeroIngresado).Count - 1;
-                int factorialDelIngreso = Factorial.get(numeroIngresado);
 
-                string mensaje = "Hasta el " + numeroIngresado + " hay " +
-                                        cantidadPrimosAnteriores + " primos, y el factorial es "
-                                        + factorialDelIngreso;
+            int cantidadPrimosAnteriores = PrimosAnteriores.get(numeroIngresado).Count - 1;
+            int factorialDelIngreso = Factorial.get(numeroIngresado);
 
-                Console.WriteLine(mensaje);
-            }
+            string mensaje = "Hasta el " + numeroIngresado + " hay " +
+                                    cantidadPrimosAnteriores + " primos, y el factorial es "
+                                    + factorialDelIngreso;
+
+            Console.WriteLine(mensaje);
 
         }
     }
