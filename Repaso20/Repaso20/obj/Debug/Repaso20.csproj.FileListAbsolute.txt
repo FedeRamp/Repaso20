@@ -1,0 +1,6 @@
+/Users/fede/Documents/GitHub/Repaso20/Repaso20/Repaso20/bin/Debug/Repaso20.exe
+/Users/fede/Documents/GitHub/Repaso20/Repaso20/Repaso20/bin/Debug/Repaso20.pdb
+/Users/fede/Documents/GitHub/Repaso20/Repaso20/Repaso20/obj/Debug/Repaso20.csprojAssemblyReference.cache
+/Users/fede/Documents/GitHub/Repaso20/Repaso20/Repaso20/obj/Debug/Repaso20.csproj.CoreCompileInputs.cache
+/Users/fede/Documents/GitHub/Repaso20/Repaso20/Repaso20/obj/Debug/Repaso20.exe
+/Users/fede/Documents/GitHub/Repaso20/Repaso20/Repaso20/obj/Debug/Repaso20.pdb

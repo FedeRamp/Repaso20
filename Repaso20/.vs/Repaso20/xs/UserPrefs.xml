@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{297B2E8F-70C6-4E64-93F1-D30A598F56F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repaso20/PrimosAnteriores.cs">
+    <Files>
+      <File FileName="Repaso20/Program.cs" Line="4" Column="2" />
+      <File FileName="Repaso20/EmptyClass.cs" Line="7" Column="10" />
+      <File FileName="Repaso20/PrimosAnteriores.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Repaso20" expanded="True">
+            <Node name="Repaso20" expanded="True">
+              <Node name="PrimosAnteriores.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Repaso20 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
