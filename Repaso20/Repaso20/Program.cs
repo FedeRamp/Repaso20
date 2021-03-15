@@ -26,7 +26,7 @@ namespace Repaso20
 
 
             int cantidadPrimosAnteriores = PrimosAnteriores.get(numeroIngresado).Count - 1;
-            int factorialDelIngreso = Factorial.get(numeroIngresado);
+            double factorialDelIngreso = Factorial.get(numeroIngresado);
 
             string mensaje = "Hasta el " + numeroIngresado + " hay " +
                                     cantidadPrimosAnteriores + " primos, y el factorial es "

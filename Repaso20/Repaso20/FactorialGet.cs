@@ -7,7 +7,7 @@ namespace Repaso20
         {
         }
 
-        public static int get(int numero)
+        public static double get(int numero)
         {
             
             if(numero == 1)

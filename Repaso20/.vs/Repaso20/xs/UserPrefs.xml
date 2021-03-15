@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{297B2E8F-70C6-4E64-93F1-D30A598F56F6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Repaso20/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repaso20/FactorialGet.cs">
     <Files>
-      <File FileName="Repaso20/Program.cs" Line="17" Column="18" />
-      <File FileName="Repaso20/PrimosAnteriores.cs" />
+      <File FileName="Repaso20/Program.cs" Line="23" Column="34" />
+      <File FileName="Repaso20/PrimosAnteriores.cs" Line="15" Column="5" />
+      <File FileName="Repaso20/FactorialGet.cs" Line="16" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Repaso20" expanded="True">
             <Node name="Repaso20" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="FactorialGet.cs" selected="True" />
             </Node>
           </Node>
         </State>
